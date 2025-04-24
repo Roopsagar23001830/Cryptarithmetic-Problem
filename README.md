@@ -79,7 +79,7 @@ MORE = 1085<br>
 MONEY = 10652<br>
 <hr>
 
-program 
+ <h3>Program </h3> 
 
 ```
 from itertools import permutations
@@ -114,7 +114,7 @@ else:
     print("No solution found.")
 ```
 
-Output
+<h3>Output </h3>
 
 ![Screenshot 2025-04-24 184851](https://github.com/user-attachments/assets/0c4a2e54-1594-41f5-a7f4-f0d5d219299f)
 
